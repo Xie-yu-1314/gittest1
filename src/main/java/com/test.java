@@ -17,5 +17,6 @@ public class test {
         System.out.println("push test2");
         System.out.println("pull test");
         System.out.println("Gitee test");
+        System.out.println("GitHub 项目更新");
     }
 }
